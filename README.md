@@ -1,6 +1,6 @@
 # GandCrab & Zeppelin Ransomware Log Datasets
 
-Curated ransomware log datasets used in the **SEC-Gemini** security analysis use case.
+Curated ransomware log datasets used in the **SEC-Gemini** security analysis for DFIR use case.
 
 ## Overview
 
